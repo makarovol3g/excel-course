@@ -1,0 +1,14 @@
+Webpack:
+npm install webpack webpack-cli --save-dev
+
+HtmlWebpackPlugin:
+npm install --save-dev html-webpack-plugin
+
+CopyWebpackPlugin:
+npm install copy-webpack-plugin --save-dev
+
+CleanWebpackPlugin: 
+npm install --save-dev clean-webpack-plugin
+
+MiniCssExtractPlugin:
+npm install --save-dev mini-css-extract-plugin
