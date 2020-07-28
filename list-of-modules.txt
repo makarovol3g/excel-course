@@ -12,3 +12,13 @@ npm install --save-dev clean-webpack-plugin
 
 MiniCssExtractPlugin:
 npm install --save-dev mini-css-extract-plugin
+
+SASSLoader:
+npm install sass-loader node-sass --save-dev
+
+CSSLoader:
+npm i -D css-loader
+
+BabelLoader:
+npm install --save-dev babel-loader @babel/core
+npm install @babel/preset-env --save-dev
