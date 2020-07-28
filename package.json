@@ -1,0 +1,24 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure JS Excel App",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makarovol3g/excel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascipt",
+    "excel"
+  ],
+  "author": "Oleg Makarov <makarovol3g@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makarovol3g/excel-course/issues"
+  },
+  "homepage": "https://github.com/makarovol3g/excel-course#readme"
+}
