@@ -22,3 +22,21 @@ npm i -D css-loader
 BabelLoader:
 npm install --save-dev babel-loader @babel/core
 npm install @babel/preset-env --save-dev
+
+Cross-env:
+npm i -D cross-env
+
+DevServer:
+npm install webpack-dev-server --save-dev
+
+BabelPolyfill:
+npm install --save @babel/polyfill
+
+WebpackDevServer:
+npm install webpack-dev-server -g
+
+EsLint:
+npm i eslint eslint-loader babel-eslint -D
+
+EsLintGoogle:
+npm i -D eslint-config-google
