@@ -40,3 +40,6 @@ npm i eslint eslint-loader babel-eslint -D
 
 EsLintGoogle:
 npm i -D eslint-config-google
+
+NormalizeCSS:
+npm install normalize.css
