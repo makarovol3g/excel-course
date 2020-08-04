@@ -43,3 +43,6 @@ npm i -D eslint-config-google
 
 NormalizeCSS:
 npm install normalize.css
+
+AnotherBabel:
+npm i -D @babel/plugin-proposal-class-properties
