@@ -123,7 +123,6 @@ class Dom {
 
 $('div').html('<h1>Test</h1>').clear()
 
-// event.target
 export function $(selector) {
     return new Dom(selector)
 }
